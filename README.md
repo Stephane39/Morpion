@@ -1,4 +1,4 @@
-# Connect4WithBot
+# MorpionWithBot
 
 ## Description
 
